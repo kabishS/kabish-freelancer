@@ -12,3 +12,10 @@ Hi, I'm [Kabish](https://github.com/kabishS). With over 3 years of experience, 3
 * **Backend & BaaS:** Supabase
 * **Deployment & Hosting:** GitHub Pages, Vercel, Netlify
 * **AI & Developer Tools:** ChatGPT, Gemini Pro, Claude, Stitch
+
+## 💼 Services I Offer
+Whether it's a single landing page or a full custom web application, I build solutions tailored to your goals:
+* **Business & E-Commerce Websites**
+* **Landing Pages & Personal Portfolios**
+* **Custom Web Applications & Admin Dashboards**
+* **Specialized Sites:** Real Estate, Restaurants, Gyms, Schools, and Hospitals
