@@ -30,3 +30,14 @@ Whether it's a single landing page or a full custom web application, I build sol
 * **📱 Mobile Friendly:** Fully optimized to look and work perfectly on every screen size.
 * **⚡ Fast Loading:** Optimized code and assets aiming for top performance scores.
 * **🔒 Secure & Reliable:** Built with best practices to keep your data and website safe.
+
+## 📫 Get In Touch
+Ready to build something amazing? Let's connect and discuss your project requirements!
+
+* **Portfolio:** [kabish.dev](https://kabishs.github.io/kabish-freelancer/)
+* **Email:** [kabishvimala@gmail.com](mailto:kabishvimala@gmail.com)
+* **WhatsApp / Phone:** +91 9150617734
+* **Instagram:** [@itz._.kabish](https://instagram.com/itz._.kabish)
+
+---
+*© 2026 Kabish. Designed & developed with ❤️*
