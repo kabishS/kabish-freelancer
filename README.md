@@ -19,3 +19,14 @@ Whether it's a single landing page or a full custom web application, I build sol
 * **Landing Pages & Personal Portfolios**
 * **Custom Web Applications & Admin Dashboards**
 * **Specialized Sites:** Real Estate, Restaurants, Gyms, Schools, and Hospitals
+
+## 🌟 Featured Projects
+* **Namma Ooru Pai:** Local business website with a clean, product-focused layout.
+* **ARC DEC:** Modern corporate website with a bold, structured design.
+* **Travels Website:** Travel agency website featuring destinations and booking sections.
+
+## ✨ Why Choose Me?
+* **🎨 Modern Design:** Clean, contemporary layouts that reflect your brand identity.
+* **📱 Mobile Friendly:** Fully optimized to look and work perfectly on every screen size.
+* **⚡ Fast Loading:** Optimized code and assets aiming for top performance scores.
+* **🔒 Secure & Reliable:** Built with best practices to keep your data and website safe.
